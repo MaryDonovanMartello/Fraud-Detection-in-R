@@ -39,19 +39,19 @@ The unsupervised One Class SVM model is a viable model for predicting credit car
 
 The EDA shows there are distinctions between the fraud records and the non-fraud records.
 
-![Over](/images/fraud/Overlapping.PNG)
+![Over](/images/Overlapping.PNG)
 
 ### K Means Clusters
 
-![elbow](/images/fraud/Elbow2.PNG)
+![elbow](/images/Elbow2.PNG)
 
-![two](/images/fraud/2Cluster.PNG)
+![two](/images/2Cluster.PNG)
 
-![scatter](/images/fraud/Scatter2.PNG)
+![scatter](/images/Scatter2.PNG)
 
-![dbscan](/images/fraud/DBSCAN.PNG)
+![dbscan](/images/DBSCAN.PNG)
 
-![ten](/images/fraud/ClustPlot.PNG)
+![ten](/images/ClustPlot.PNG)
 
 ### Modeling
 
@@ -63,17 +63,15 @@ In the unsupervised models, I used the original highly imbalanced proportion of 
 
 **One Class Support Vector Machine:**
 
-![RESULTSSVM](/images/fraud/SVMresults.PNG)
+![RESULTSSVM](/images/SVMresults.PNG)
 
 **K Means:**
 
 Clusters as input features in the supervised model:
 
-![RESULTSfeatures](/images/fraud/FeaturesResults.PNG)
+![RESULTSfeatures](/images/FeaturesResults.PNG)
 
 Clusters as the classificaiton labels in the supervised model:
 
-![RESULTSlabels](/images/fraud/LabelsResults.PNG)
+![RESULTSlabels](/images/LabelsResults.PNG)
 
-
-### The Complete Project: [here](https://github.com/MaryDonovanMartello/Fraud-Detection-in-R){:target="_blank"}.
