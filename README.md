@@ -10,7 +10,7 @@ e1071 | NLP | tm | dbscan | fpc | MLmetrics | NBClust | factoextra | corrplot | 
 
 **Data**
 
-[data](https://www.kaggle.com/mlg-ulb/creditcardfraud){:target="_blank"}
+[data](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 **Models / Methods / Metrics**
 
