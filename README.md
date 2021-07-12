@@ -73,3 +73,29 @@ Clusters as the classificaiton labels in the supervised model:
 
 ![RESULTSlabels](/images/LabelsResults.PNG)
 
+**Notebooks**
+
+1_EDA_Output_Cleared
+This notebook includes the EDA and data preparation.  
+
+2_PreprocessDataUndersample
+This notebook under samples the dataset for use in other notebooks.
+
+3_PreprocessDataProportional
+This notebook randomly samples the dataset to use a smaller dataset for capacity reasons.
+
+4_Feature_Selection
+This notebook includes feature selection models.
+
+5_OneClassSVM
+This notebook implements a One Class SVM model and compares it to a supervised SVM model.
+
+6_KMeansPlotClusters
+This notebook implements K Means models and plots the clusters to visualize results.
+
+7_KMeansClusterAsFeatures
+This notebook uses K Means cluster results as features in supervised models.
+
+8_KMeansClusterAsLabel
+This notebook uses K Means cluster results as the classification labels in supervised models.
+
